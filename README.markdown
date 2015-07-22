@@ -4,7 +4,7 @@ This program helps to change the default sound device with one click instead of 
 
 ## Installation/Modifying
 
-1. Copy this repository to a suitable location such as C:\AudioControlSource
+1. Copy this repository to a suitable location such as __C:\AudioControlSource__
 2. Open your Windows Playback devices (Right click on your speaker icon on the taskbar and select __Volume control options__).
 3. Take note of the names of the Playback devices names exactly as they appear.
 4. Open __.bat__ file located in the root folder and rename the device name to what ever yours is named.
